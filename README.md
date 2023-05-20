@@ -1,8 +1,8 @@
-![wallpaper](https://github.com/programmersEmperor/programmersEmperor/assets/110212291/f2b1d8da-b45e-4481-8d7e-3b63c91d5233)
+![wallpaper](https://jayamwebsolutions.com/img/website.gif)
 
 
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Mutasim Al-Mualimi </h1>
-<p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
+<p style="text-align: justify; margin: 0 50px; font-size: 17px;" >
    Enthusiasm and innovation in programming empowered me to
 gain experience with mobile, front-end, and sometimes desktop
 development teams. Eager for new challenges in order to expand

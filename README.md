@@ -1,7 +1,6 @@
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Mutasim Al-Mualimi </h1>
-
-<!-- ![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif) -->
-
 <p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
    Enthusiasm and innovation in programming empowered me to
 gain experience with mobile, front-end, and sometimes desktop
@@ -10,6 +9,9 @@ my knowledge. I do love to call myself the Programmers Emperor since that is my 
 <br>
 <br>
 </p>    
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <br>
 
 - 📰 I have programmed an app [اعلانات الصحيفة -- Newspaper Ads](https://play.google.com/store/apps/details?id=com.althawrah.althawrah)

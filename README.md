@@ -6,7 +6,7 @@
    Enthusiasm and innovation in programming empowered me to
 gain experience with mobile, front-end, and sometimes desktop
 development teams. Eager for new challenges in order to expand
-my knowledge. I do love to call myself the Programmers Empror since that is my dream✌️. 
+my knowledge. I do love to call myself the Programmers Emperor since that is my dream✌️. 
 <br>
 <br>
 </p>    

@@ -1,4 +1,5 @@
-<div style="padding-top:30.208%;position:relative;"><iframe src="https://gifer.com/embed/6ELl" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+![wallpaper](https://github.com/programmersEmperor/programmersEmperor/assets/110212291/f2b1d8da-b45e-4481-8d7e-3b63c91d5233)
+
 
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Mutasim Al-Mualimi </h1>
 <p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >

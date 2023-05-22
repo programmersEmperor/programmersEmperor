@@ -19,10 +19,10 @@ my knowledge. I do love to call myself the Programmers Emperor since that is my 
 
 - 📱 Mobile Developer Expert
 - ⏹️ MVC Pattern Expert
-- ⌨️ Typing 60 Words Per Minute, <a href = "https://data.typeracer.com/misc/badge?user=mutasim_2001">check my TypeRacer account</a> 
+- ⌨️ Typing 60 Words Per Minute, <a href = "https://data.typeracer.com/pit/profile?user=mutasim_2001">check my TypeRacer account</a> 
 - 👌🏻 Clean Coder
-- 📰 I have programmed an app [اعلانات الصحيفة -- Newspaper Ads](https://play.google.com/store/apps/details?id=com.althawrah.althawrah)
-- 📺 Also I have made a server system **Yemen TV Channel SMS Competition**
+- 📰 Programmed [اعلانات الصحيفة -- Newspaper Ads](https://play.google.com/store/apps/details?id=com.althawrah.althawrah) with Flutter 
+- 📺 Programmed a server system **Yemen TV Channel SMS Competition** using C#
 - ⚡ Fun fact **Coding is fun**
 
 <br>
@@ -31,6 +31,7 @@ my knowledge. I do love to call myself the Programmers Emperor since that is my 
 <p align="left">
 <a title ="facebook" href="https://fb.com/mutasim al moalmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mutasim al moalmy" height="30" width="40" /></a>
 <a title ="Instagram" href="https://instagram.com/eng.mutasim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eng.mutasim" height="30" width="40" /></a>
+<a title ="whatsapp" href="https://wa.me/967774569423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mutasim al moalmy" height="30" width="40" /></a>
 <a title="mutasim.business2020@gmail.com" href="mailto:mutasim.business2020@gmail.com" target="_blank">
         <img align="center" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
     </a>

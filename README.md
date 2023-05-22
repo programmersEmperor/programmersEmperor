@@ -14,11 +14,15 @@ my knowledge. I do love to call myself the Programmers Emperor since that is my 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <br>
+<br>
+<h3 align="left">Skills:</h3>
 
+- 📱 Mobile Developer Expert
+- ⏹️ MVC Pattern Expert
+- ⌨️ Typing 60 Words Per Minute, <a href = "https://data.typeracer.com/misc/badge?user=mutasim_2001">check my TypeRacer account</a> 
+- 👌🏻 Clean Coder
 - 📰 I have programmed an app [اعلانات الصحيفة -- Newspaper Ads](https://play.google.com/store/apps/details?id=com.althawrah.althawrah)
-
 - 📺 Also I have made a server system **Yemen TV Channel SMS Competition**
-
 - ⚡ Fun fact **Coding is fun**
 
 <br>

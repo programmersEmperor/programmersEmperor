@@ -3,7 +3,7 @@
 
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Mutasim Al-Mualimi </h1>
 <p style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-   A Mobile Application Developer with over 2 years of experience and extensive knowledge of mobile app development and the entire application lifecycle. Proficient in Dart language and Flutter framework. Strong knowledge of architectural patterns, such as MVC. Capable of writing clean, readable, testable code of the highest quality. Committed to building excellent UX/UI. Also worked in front-end and desktop development. I do love to call myself the Programmers Emperor since that is my dream✌️..
+   A Mobile Application Developer with over 2 years of experience and extensive knowledge of mobile app development and the entire application lifecycle. Proficient in Dart language and Flutter framework. Strong knowledge of architectural patterns, such as MVC. Capable of writing clean, readable, testable code of the highest quality. Committed to building excellent UX/UI. Also worked in front-end and desktop development. I do love to call myself the Programmers Emperor since that is my dream✌️.
 <br>
 <br>
 </p>    

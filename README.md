@@ -109,7 +109,7 @@
 <!-- Begin Stats Cards -->
 <div class="stats" align="center">
 
-![Mutasim Al-Mualimi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=programmersEmperor&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+<!-- ![Mutasim Al-Mualimi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=programmersEmperor&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)-->
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=programmersEmperor&count_private=true&theme=algolia&border_radius=20)
     

@@ -1,5 +1,3 @@
-![wallpaper](https://jayamwebsolutions.com/img/website.gif)
-
 
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Mutasim Al-Mualimi </h1>
 <p style="text-align: justify; margin: 0 50px; font-size: 17px;" >

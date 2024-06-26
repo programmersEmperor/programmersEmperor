@@ -16,8 +16,9 @@
 <br>
 <h3 align="left">Skills:</h3>
 
+- 🖥 Web Developer Expert
 - 📱 Mobile Developer Expert
-- ⏹️ MVC Pattern Expert
+- ⏹️ MVC + Tier Pattern Expert
 - ⌨️ Typing 60 Words Per Minute, <a href = "https://data.typeracer.com/pit/profile?user=mutasim_2001">check my TypeRacer account</a> 
 - 👌🏻 Clean Coder
 - 📰 Programmed [اعلانات الصحيفة -- Newspaper Ads](https://play.google.com/store/apps/details?id=com.althawrah.althawrah) with Flutter 

@@ -1,7 +1,7 @@
 
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Mutasim Al-Mualimi </h1>
 <p style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-   <p>Highly motivated Web Developer with 2+ years of experience crafting user-centric web and mobile applications. </p>
+   <p>Highly motivated Web Developer with 3+ years of experience crafting user-centric web and mobile applications. </p>
    <p>Leveraging expertise in JavaScript frameworks like ReactJS, NextJS, and Flutter, I deliver clean, well-documented, and testable code that prioritizes performance and SEO.</p>
    <p>My experience extends beyond coding. I possess a strong understanding of architectural patterns (MVC, n-tier) and collaborate effectively to ensure scalable and robust solutions.</p>
    <p>Passionate about creating exceptional User Experience (UX) and User Interface (UI).</p>

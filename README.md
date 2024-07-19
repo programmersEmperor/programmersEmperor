@@ -21,8 +21,6 @@
 - ⏹️ MVC + Tier Pattern Expert
 - ⌨️ Typing 60 Words Per Minute, <a href = "https://data.typeracer.com/pit/profile?user=mutasim_2001">check my TypeRacer account</a> 
 - 👌🏻 Clean Coder
-- 📰 Programmed [اعلانات الصحيفة -- Newspaper Ads](https://play.google.com/store/apps/details?id=com.althawrah.althawrah) with Flutter 
-- 📺 Programmed a server system **Yemen TV Channel SMS Competition** using C#
 - ⚡ Fun fact **Coding is fun**
 
 <br>

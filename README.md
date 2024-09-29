@@ -104,11 +104,11 @@
 <br>
 
 <!-- Statistics -->
-
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
 <!-- Begin Stats Cards -->
 <div class="stats" align="center">
+
 ![Mutasim Al-Mualimi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=programmersEmperor&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=programmersEmperor&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 ![GitHub Streak](https://streak-stats.demolab.com?user=programmersEmperor&count_private=true&theme=algolia&border_radius=20)

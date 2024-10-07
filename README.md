@@ -9,38 +9,28 @@
 
    <p>The truth is, it’s not just about writing good code—it’s about <b>creating a better world through it.</b> If that sounds like something you believe in too, let’s push boundaries together. 🚀💥</p>
 <br>
-<br>
 </p>    
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <br>
 <br>
-<h3 align="left">Skills:</h3>
+<h3 align="left">Love:</h3>
 
-- 🖥 Web Developer Expert
-- ⏹️ MVC + Tier Pattern Expert
-- ⌨️ Typing 60 Words Per Minute, <a href = "https://data.typeracer.com/pit/profile?user=mutasim_2001">check my TypeRacer account</a> 
-- 👌🏻 Clean Coder
+- 🖥 Data Structure & Algorithms
+- ⏹️ Design Pattern 
+- ⌨️ Fast Typing <a href = "https://data.typeracer.com/pit/profile?user=mutasim_2001">check my TypeRacer account</a> 
+- 👌🏻 Clean Code & Clean Architectures
 - ⚡ Fun fact **Coding is fun**
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a title ="facebook" href="https://fb.com/mutasim al moalmy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mutasim al moalmy" height="30" width="40" /></a>
-<a title ="Instagram" href="https://instagram.com/eng.mutasim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eng.mutasim" height="30" width="40" /></a>
-<a title ="whatsapp" href="https://wa.me/967774569423" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mutasim al moalmy" height="30" width="40" /></a>
-<a title="mutasim.business2020@gmail.com" href="mailto:mutasim.business2020@gmail.com" target="_blank">
-        <img align="center" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
-    </a>
-</p>
 
 <br>
 
 <!-- Languages and Tools -->
 
-<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
+<h2>⚙️ Languages and Tools</h2>
 <div align="center" style="display:block;">
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
 </div>
@@ -102,7 +92,18 @@
   </a>
 </div>
 <br>
-<br>
+
+
+<h2>🤙 Connect with me</h2>
+<p align="left">
+<a title ="facebook" href="https://fb.com/mutasim al moalmy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mutasim al moalmy" height="30" width="40" /></a>
+<a title ="Instagram" href="https://instagram.com/eng.mutasim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eng.mutasim" height="30" width="40" /></a>
+<a title ="whatsapp" href="https://wa.me/967774569423" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mutasim al moalmy" height="30" width="40" /></a>
+<a title="mutasim.business2020@gmail.com" href="mailto:mutasim.business2020@gmail.com" target="_blank">
+        <img align="center" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
+    </a>
+</p>
+
 
 <!-- Statistics -->
 <!-- <h2 style="color: #44AEFB">📊 Statistics</h2> -->
@@ -115,3 +116,4 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=programmersEmperor&count_private=true&theme=algolia&border_radius=20)
 </div> -->
 <!--  End Stats Cards -->
+

@@ -1,11 +1,13 @@
 
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Mutasim Al-Mualimi </h1>
 <p style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-   <p>Highly motivated Web Developer crafting user-centric web and mobile applications. </p>
-   <p>Leveraging expertise in JavaScript frameworks like ReactJS, NextJS, and Flutter, I deliver clean, well-documented, and testable code that prioritizes performance and SEO.</p>
-   <p>My experience extends beyond coding. I possess a strong understanding of architectural patterns (MVC, n-tier) and collaborate effectively to ensure scalable and robust solutions.</p>
-   <p>Passionate about creating exceptional User Experience (UX) and User Interface (UI).</p>
-   <p>Foundation in Computer Science from Al-Razi University. Eager to continue evolving and applying my knowledge in a dynamic environment.</p>
+   <p>I’m here because I believe in building the future—one line of code at a time. As a developer, my focus is simple: drive innovation by leading teams to create codebases that don’t just work, but <b>scale massively 📈</b>, adapt effortlessly 🔄, and perform with peak efficiency ⚡️.</p>
+
+   <p>I’m obsessed with optimizing the <b>developer experience</b>—streamlining the entire software lifecycle with automation 🤖, CI/CD 🚦, and rigorous testing 🧪. Why? Because when you remove friction for developers, you accelerate progress. You make the impossible, possible—<b>faster</b>.</p>
+
+   <p>As a co-founder 💡, I’m laser-focused on delivering creative, out-of-the-box solutions to problems that <b>truly matter</b>. The goal is simple: high-impact results while ensuring every project is a <b>leap forward 🏃‍♂️</b>, not just a step. The future needs solutions that are bold, scalable, and sustainable, and I’m here to build exactly that 🌍.</p>
+
+   <p>The truth is, it’s not just about writing good code—it’s about <b>creating a better world through it.</b> If that sounds like something you believe in too, let’s push boundaries together. 🚀💥</p>
 <br>
 <br>
 </p>    
@@ -17,7 +19,6 @@
 <h3 align="left">Skills:</h3>
 
 - 🖥 Web Developer Expert
-- 📱 Mobile Developer Expert
 - ⏹️ MVC + Tier Pattern Expert
 - ⌨️ Typing 60 Words Per Minute, <a href = "https://data.typeracer.com/pit/profile?user=mutasim_2001">check my TypeRacer account</a> 
 - 👌🏻 Clean Coder
@@ -104,13 +105,13 @@
 <br>
 
 <!-- Statistics -->
-<h2 style="color: #44AEFB">📊 Statistics</h2>
+<!-- <h2 style="color: #44AEFB">📊 Statistics</h2> -->
 
 <!-- Begin Stats Cards -->
-<div class="stats" align="center">
+<!-- <div class="stats" align="center">
 
 ![Mutasim Al-Mualimi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=programmersEmperor&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=programmersEmperor&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 ![GitHub Streak](https://streak-stats.demolab.com?user=programmersEmperor&count_private=true&theme=algolia&border_radius=20)
-</div>
+</div> -->
 <!--  End Stats Cards -->

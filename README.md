@@ -85,6 +85,10 @@
    <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
       <img  alt="prisma" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg"/>
   </a> 
+
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+      <img  alt="langchain" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg"/>
+  </a> 
 </div>
 <br>
 

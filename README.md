@@ -99,17 +99,6 @@
 <br>
 
 
-<h2>🤙 Connect with me</h2>
-<p align="left">
-<a title ="facebook" href="https://fb.com/mutasim al moalmy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mutasim al moalmy" height="30" width="40" /></a>
-<a title ="Instagram" href="https://instagram.com/eng.mutasim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eng.mutasim" height="30" width="40" /></a>
-<a title ="whatsapp" href="https://wa.me/967774569423" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mutasim al moalmy" height="30" width="40" /></a>
-<a title="mutasim.business2020@gmail.com" href="mailto:mutasim.business2020@gmail.com" target="_blank">
-        <img align="center" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
-    </a>
-</p>
-
-
 <!-- Statistics -->
 <!-- <h2 style="color: #44AEFB">📊 Statistics</h2> -->
 

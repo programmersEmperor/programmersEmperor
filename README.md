@@ -17,100 +17,71 @@
 <br>
 </p>    
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <br>
 
+### Programming Languages
+<code> <img title="TypeScript" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" height="42px"/> </code>
+<code> <img title="JavaScript" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" height="42px"/> </code>
+<code> <img title="C#" alt="C#" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" height="42px"/> </code>
+<code> <img title="Dart" alt="Dart" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" height="42px"/> </code>
+<code> <img title="Python" alt="Python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" height="42px"/> </code>
 
-### 🔨 Frontend Development:
-<code> <img title="Next.js" alt="Nextjs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png" height="42px"/> </code>
-<code> <img title="TypeScript" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="42px"/> </code>
-<code> <img title="TypeScript" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="42px"/> </code>
-<code> <img title="TypeScript" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="42px"/> </code>
-<code> <img title="TypeScript" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="42px"/> </code>
-<code> <img title="JavaScript" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="42px"/> </code>
+<br/>
 
+### Frontend Development
+<code> <img title="Next.js" alt="Nextjs" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" height="42px"/> </code>
+<code> <img title="React" alt="React" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" height="42px"/> </code>
+<code> <img title="Zustand" alt="Zustand" src="https://raw.githubusercontent.com/github/explore/main/topics/zustand/zustand.png" height="42px"/> </code>
+<code> <img title="Redux" alt="Redux" src="https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png" height="42px"/> </code>
+<code> <img title="Tailwind CSS" alt="Tailwind CSS" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" height="42px"/> </code>
+<code> <img title="Bootstrap" alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" height="42px"/> </code>
+<code> <img title="ShadCN" alt="ShadCN" src="https://raw.githubusercontent.com/github/explore/main/topics/shadcn-ui/shadcn-ui.png" height="42px"/> </code>
+<code> <img title="CSS" alt="CSS" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" height="42px"/> </code>
+<code> <img title="HTML" alt="HTML" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" height="42px"/> </code>
+<code> <img title="MDX" alt="MDX" src="https://raw.githubusercontent.com/github/explore/main/topics/mdx/mdx.png" height="42px"/> </code>
 
+<br/>
 
-<br>
+### Backend Development
+<code> <img title="Node.js" alt="Nodejs" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" height="42px"/> </code>
+<code> <img title="RESTful APIs" alt="RESTful APIs" src="https://miro.medium.com/v2/resize:fit:440/1*J3G3akaMpUOLegw0p0qthA.png" height="42px"/> </code>
+<code> <img title="Prisma" alt="Prisma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="42px"/> </code>
+<code> <img title="Drizzle ORM" alt="Drizzle ORM" src="https://imgildev.gallerycdn.vsassets.io/extensions/imgildev/vscode-drizzle-snippets/1.1.0/1713981660600/Microsoft.VisualStudio.Services.Icons.Default" height="42px"/> </code>
+<code> <img title="SQL" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" height="42px"/> </code>
+<code> <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" height="42px"/> </code>
+<code> <img title="PostgreSQL" alt="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" height="42px"/> </code>
+<code> <img title="SQLite" alt="SQLite" src="https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png" height="42px"/> </code>
+<code> <img title="SQL Server" alt="SQL Server" src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png" height="42px"/> </code>
+<code> <img title="firebase" alt="firebase" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" height="42px"/> </code>
+<code> <img title="oauth2" alt="oauth2" src="https://raw.githubusercontent.com/github/explore/main/topics/oauth2/oauth2.png" height="42px"/> </code>
 
+<br/>
 
-<br>
+### Development Tools
+<code> <img title="Visual Studio Code" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" height="42px"/> </code>
+<code> <img title="Vite" alt="Vite" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" height="42px"/> </code>
+<code> <img title="Webpack" alt="Webpack" src="https://raw.githubusercontent.com/github/explore/main/topics/webpack/webpack.png" height="42px"/> </code>
+<code> <img title="NPM" alt="NPM" src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png" height="42px"/> </code>
+<code> <img title="PNPM" alt="PNPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pnpm/pnpm-original.svg" height="42px"/> </code>
+<code> <img title="Tubropack" alt="Trubopack" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWrOMUbcxvf82hoLZdpFd5nHGJZ9Lu3hSIow" height="42px"/> </code>
 
-<!-- Languages and Tools -->
+<br/>
 
-<h2>⚙️ Languages and Tools</h2>
-<div align="center" style="display:block;">
-    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
-</div>
-<br>   
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
-<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
-<div align="center">
-   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-        <img  alt="node" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-    </a>
-   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img  alt="nextjs" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-    </a> 
-   <a href="https://react.dev/" target="_blank" rel="noreferrer">
-        <img  alt="react" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img  alt="typescript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-      <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  </a> 
-   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-      <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img  alt="mysql" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  </a>
-   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-      <img  alt="postgresql" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  </a>
-  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
-      <img  alt="SQLite" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img  alt="firebase" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img  alt="docker" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-  </a>
-   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-      <img  alt="prisma" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg"/>
-  </a> 
+### Testing Tools
 
-<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-      <img  alt="langchain" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg"/>
-  </a> 
-</div>
-<br>
+<br/>
 
+### AI Tools
 
-<!-- Statistics -->
-<!-- <h2 style="color: #44AEFB">📊 Statistics</h2> -->
+<br/>
 
-<!-- Begin Stats Cards -->
-<!-- <div class="stats" align="center">
+### Project Management 
 
-![Mutasim Al-Mualimi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=programmersEmperor&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=programmersEmperor&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-![GitHub Streak](https://streak-stats.demolab.com?user=programmersEmperor&count_private=true&theme=algolia&border_radius=20)
-</div> -->
-<!--  End Stats Cards -->
+<br/>
 
+### DevOps Tools
+
+<br/>
+
+### Infrastructure 

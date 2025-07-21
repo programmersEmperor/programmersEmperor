@@ -58,6 +58,15 @@
 
 <br/>
 
+### AI Tools
+<code> <img title="LangChain" alt="LangChain" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbswFzpJDZRET8MOLhT4NZEl0Zu5E7_kB6_g" height="42px"/> </code>
+<code> <img title="Vapi" alt="Vapi" src="https://canny-assets.io/icons/e927eaf617a1a3e9802290b66cfc7c9a.png" height="42px"/> </code>
+<code> <img title="OpenAI" alt="OpenAI" src="https://freelogopng.com/images/all_img/1681142503openai-icon-png.png" height="42px"/> </code>
+<code> <img title="Google Gemini" alt="Google Gemini" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG0Q8TM6IFSGz_drBLLzVR8xv2RNyFvy3FVA" height="42px"/> </code>
+
+
+<br/>
+
 ### Development Tools
 <code> <img title="Visual Studio Code" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" height="42px"/> </code>
 <code> <img title="Vite" alt="Vite" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" height="42px"/> </code>
@@ -68,6 +77,7 @@
 <code> <img title="Postman" alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="42px"/> </code>
 <code> <img title="Prettier" alt="Prettier" src="https://raw.githubusercontent.com/github/explore/main/topics/prettier/prettier.png" height="42px"/> </code>
 <code> <img title="ESLint" alt="ESLint" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="42px"/> </code>
+
 <br/>
 
 ### Testing Tools
@@ -78,14 +88,16 @@
 <br/>
 
 ### DevOps Tools
+<code> <img title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42px"/> </code>
+<code> <img title="GitHub" alt="GitHub" src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" height="42px"/> </code>
+<code> <img title="GitLab" alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="42px"/> </code>
+<code> <img title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42px"/> </code>
+<code> <img title="GitHub Actions" alt="GitHub Actions" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="42px"/> </code>
+<code> <img title="Sentry" alt="Sentry" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sentry/sentry-original.svg" height="42px"/> </code>
+<code> <img title="Checkly" alt="Checkly" src="https://pbs.twimg.com/profile_images/1758527935709876224/DRTU7Rje_200x200.png" height="42px"/> </code>
 
 <br/>
 
-<br/>
-
-### AI Tools
-
-<br/>
 
 ### Project Management 
 

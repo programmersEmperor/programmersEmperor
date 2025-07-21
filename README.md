@@ -20,14 +20,17 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <br>
-<br>
-<h3 align="left">Love:</h3>
 
-- 🖥 Data Structure & Algorithms
-- ⏹️ Design Pattern 
-- ⌨️ Fast Typing <a href = "https://data.typeracer.com/pit/profile?user=mutasim_2001">check my TypeRacer account</a> 
-- 👌🏻 Clean Code & Clean Architectures
-- ⚡ Fun fact **Coding is fun**
+
+### 🔨 Frontend Development:
+<code> <img title="Next.js" alt="Nextjs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png" height="42px"/> </code>
+<code> <img title="TypeScript" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="42px"/> </code>
+<code> <img title="TypeScript" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="42px"/> </code>
+<code> <img title="TypeScript" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="42px"/> </code>
+<code> <img title="TypeScript" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="42px"/> </code>
+<code> <img title="JavaScript" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="42px"/> </code>
+
+
 
 <br>
 

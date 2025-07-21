@@ -99,7 +99,11 @@
 <br/>
 
 
-### Project Management 
+### Team Management Tools
+<code> <img title="ClickUp" alt="ClickUp" src="https://cdn.prod.website-files.com/66bcb8da83bf4e0f3fa35578/66bcb8da83bf4e0f3fa360f8_6257f2528a3995445f8b01c4_622f69e00c9cf272a93c7161_5df795b9983d280a159f28aa_symbol-color-large-transparent.webp" height="42px"/> </code>
+<code> <img title="Jira" alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="42px"/> </code>
+<code> <img title="Trello" alt="Trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" height="42px"/> </code>
+<code> <img title="Slack" alt="Slack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="42px"/> </code>
 
 <br/>
 

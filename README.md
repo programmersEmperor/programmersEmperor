@@ -69,6 +69,15 @@
 <br/>
 
 ### Testing Tools
+<code> <img title="Playwright" alt="Playwright" src="https://raw.githubusercontent.com/github/explore/main/topics/playwright/playwright.png" height="42px"/> </code>
+<code> <img title="Jest" alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="42px"/> </code>
+<code> <img title="Lighthouse" alt="Lighthouse" src="https://tehnoblog.org/wp-content/uploads/2019/01/Google-Chrome-Lighthouse-Logo.png" height="42px"/> </code>
+
+<br/>
+
+### DevOps Tools
+
+<br/>
 
 <br/>
 
@@ -80,8 +89,6 @@
 
 <br/>
 
-### DevOps Tools
 
-<br/>
 
 ### Infrastructure 

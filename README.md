@@ -7,6 +7,8 @@
 
 
 <p style="text-align: justify; margin: 0 50px; font-size: 17px;" >
+   <p>I’m a Full-Stack Software Engineer and <a href="https://maskapi.dev" target="_blank">MaskAPI</a> Co-Founder. </p>
+   
    <p>I’m here because I believe in building the future, one line of code at a time. As a developer, my focus is simple: drive innovation by leading teams to create codebases that don’t just work, but <b>scale massively 📈</b>, adapt effortlessly 🔄, and perform with peak efficiency ⚡️.</p>
 
    <p>I’m obsessed with optimizing the <b>developer experience</b> streamlining the entire software lifecycle with automation 🤖, CI/CD 🚦, and rigorous testing 🧪. Why? Because when you remove friction for developers, you accelerate progress. You make the impossible, possible <b>faster</b>.</p>

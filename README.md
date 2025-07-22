@@ -46,7 +46,7 @@
 
 ### Backend Development
 <code> <img title="Node.js" alt="Nodejs" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" height="42px"/> </code>
-<code> <img title="RESTful APIs" alt="RESTful APIs" src="https://miro.medium.com/v2/resize:fit:440/1*J3G3akaMpUOLegw0p0qthA.png" height="42px"/> </code>
+<code> <img title="RESTful APIs" alt="RESTful APIs" src="https://miro.medium.com/v2/resize:fit:440/1*J3G3akaMpUOLegw0p0qthA.png" height="35px"/> </code>
 <code> <img title="oauth2" alt="oauth2" src="https://raw.githubusercontent.com/github/explore/main/topics/oauth2/oauth2.png" height="42px"/> </code>
 <code> <img title="Prisma" alt="Prisma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="42px"/> </code>
 <code> <img title="Drizzle ORM" alt="Drizzle ORM" src="https://imgildev.gallerycdn.vsassets.io/extensions/imgildev/vscode-drizzle-snippets/1.1.0/1713981660600/Microsoft.VisualStudio.Services.Icons.Default" height="42px"/> </code>

@@ -31,6 +31,7 @@
 ### Frontend Development
 <code> <img title="Next.js" alt="Nextjs" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" height="42px"/> </code>
 <code> <img title="React" alt="React" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" height="42px"/> </code>
+<code> <img title="Flutter" alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="42px"/> </code>
 <code> <img title="Zustand" alt="Zustand" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" height="42px"/> </code>
 <code> <img title="Redux" alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="42px"/> </code>
 <code> <img title="Tailwind CSS" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="42px"/> </code>

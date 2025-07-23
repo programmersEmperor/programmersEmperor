@@ -120,3 +120,11 @@
 <code> <img title="Slack" alt="Slack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="42px"/> </code>
 
 <br/>
+
+## My Journey
+<div>
+  <img width="440px" src="https://github-readme-stats-steel-theta-71.vercel.app/api?username=programmersEmperor&show_icons=true&theme=onedark">
+<!--   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=programmersEmperor&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=programmersEmperor&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=programmersEmperor&theme=onedark" /> -->
+</div>

@@ -18,8 +18,12 @@
    <p>The truth is, it’s not just about writing good code, it’s about <b>creating a better world through it.</b> If that sounds like something you believe in too, let’s push boundaries together. 🚀💥</p>
 </p>    
 
+<br/>
 
-<br>
+![Snake animation](https://raw.githubusercontent.com/programmersEmperor/programmersEmperor/output/github-contribution-grid-snake-dark.svg)
+
+
+<br/>
 
 ### Programming Languages
 <code> <img title="TypeScript" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42px"/> </code>

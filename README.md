@@ -20,12 +20,15 @@
 
 <br/>
 
+## ⌨️ Feeding
 ![Snake animation](https://raw.githubusercontent.com/programmersEmperor/programmersEmperor/output/github-contribution-grid-snake-dark.svg)
 
 
 <br/>
 
-### Programming Languages
+## Tech Stack & Tools
+
+- ### Programming Languages:
 <code> <img title="TypeScript" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42px"/> </code>
 <code> <img title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42px"/> </code>
 <code> <img title="C#" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42px"/> </code>
@@ -34,7 +37,7 @@
 
 <br/>
 
-### Frontend Development
+- ### Frontend:
 <code> <img title="Next.js" alt="Nextjs" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" height="42px"/> </code>
 <code> <img title="React" alt="React" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" height="42px"/> </code>
 <code> <img title="Flutter" alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="42px"/> </code>
@@ -51,7 +54,7 @@
 
 <br/>
 
-### Backend Development
+- ### Backend:
 <code> <img title="Node.js" alt="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42px"/> </code>
 <code> <img title="RESTful APIs" alt="RESTful APIs" src="https://miro.medium.com/v2/resize:fit:440/1*J3G3akaMpUOLegw0p0qthA.png" height="42px"/> </code>
 <code> <img title="oauth2" alt="oauth2" src="https://raw.githubusercontent.com/github/explore/main/topics/oauth2/oauth2.png" height="42px"/> </code>
@@ -67,7 +70,7 @@
 
 <br/>
 
-### AI Tools
+- ### AI & LLMs:
 <code> <img title="LangChain" alt="LangChain" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbswFzpJDZRET8MOLhT4NZEl0Zu5E7_kB6_g" height="42px"/> </code>
 <code> <img title="Vapi" alt="Vapi" src="https://canny-assets.io/icons/e927eaf617a1a3e9802290b66cfc7c9a.png" height="42px"/> </code>
 <code> <img title="OpenAI" alt="OpenAI" src="https://freelogopng.com/images/all_img/1681142503openai-icon-png.png" height="42px"/> </code>
@@ -76,7 +79,7 @@
 
 <br/>
 
-### Development Tools
+- ### Development:
 <code> <img title="Visual Studio Code" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" height="42px"/> </code>
 <code> <img title="Vite" alt="Vite" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" height="42px"/> </code>
 <code> <img title="Webpack" alt="Webpack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="42px"/> </code>
@@ -89,7 +92,7 @@
 
 <br/>
 
-### Testing Tools
+- ### Testing & QA:
 <code> <img title="Playwright" alt="Playwright" src="https://raw.githubusercontent.com/github/explore/main/topics/playwright/playwright.png" height="42px"/> </code>
 <code> <img title="Jest" alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="42px"/> </code>
 <code> <img title="Lighthouse" alt="Lighthouse" src="https://tehnoblog.org/wp-content/uploads/2019/01/Google-Chrome-Lighthouse-Logo.png" height="42px"/> </code>
@@ -97,7 +100,7 @@
 
 <br/>
 
-### DevOps Tools
+- ### DevOps & CI/CD:
 <code> <img title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42px"/> </code>
 <code> <img title="GitHub" alt="GitHub" src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" height="42px"/> </code>
 <code> <img title="GitLab" alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="42px"/> </code>
@@ -110,7 +113,7 @@
 
 <br/>
 
-### Team Management Tools
+- ### Task Management & Team Collaberation: 
 <code> <img title="ClickUp" alt="ClickUp" src="https://cdn.prod.website-files.com/66bcb8da83bf4e0f3fa35578/66bcb8da83bf4e0f3fa360f8_6257f2528a3995445f8b01c4_622f69e00c9cf272a93c7161_5df795b9983d280a159f28aa_symbol-color-large-transparent.webp" height="42px"/> </code>
 <code> <img title="Jira" alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="42px"/> </code>
 <code> <img title="Trello" alt="Trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" height="42px"/> </code>

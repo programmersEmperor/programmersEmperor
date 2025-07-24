@@ -77,7 +77,6 @@
 
    <p>As a co-founder 💡, I’m laser-focused on delivering creative, out-of-the-box solutions to problems that <b>truly matter</b>. The goal is simple: high-impact results while ensuring every project is a <b>leap forward 🏃‍♂️</b>, not just a step. The future needs solutions that are bold, scalable, and sustainable, and I’m here to build exactly that 🌍.</p>
 
-   <p>The truth is, it’s not just about writing good code, it’s about <b>creating a better world through it.</b> If that sounds like something you believe in too, let’s push boundaries together. 🚀💥</p>
 </p>    
 
 <br/>
@@ -88,7 +87,7 @@
 
 <br/>
 
-## Tech Stack & Tools
+## ⚙️Tech Stack & Tools
 
 - ### Programming Languages:
 <code> <img title="TypeScript" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42px"/> </code>
@@ -183,7 +182,7 @@
 
 <br/>
 
-## My Journey
+## 📈 My Journey
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats-steel-theta-71.vercel.app/api?username=programmersEmperor&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide=issues,contribs,stars&bg_color=00000000&show=prs_merged,prs_merged_percentage">
   <img height="50%" width="auto" src ="https://github-readme-stats-steel-theta-71.vercel.app/api/top-langs/?username=programmersEmperor&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6">

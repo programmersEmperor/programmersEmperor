@@ -7,13 +7,13 @@
 
 
 <p style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-   <p>I’m a Full-Stack Software Engineer with 3+ years' experience in Next.js, React, Node.js, and TypeScript. and <a href="https://maskapi.dev" target="_blank">MaskAPI</a> Co-Founder. </p>
+   <p>I’m a Full-Stack Software Engineer with 3+ years' experience in Next.js, React, Node.js, and TypeScript.
    
    <p>I’m here because I believe in building the future, one line of code at a time. As a developer, my focus is simple: drive innovation by leading teams to create codebases that don’t just work, but <b>scale massively 📈</b>, adapt effortlessly 🔄, and perform with peak efficiency ⚡️.</p>
 
    <p>I’m obsessed with optimizing the <b>developer experience</b> streamlining the entire software lifecycle with automation 🤖, CI/CD 🚦, and rigorous testing 🧪. Why? Because when you remove friction for developers, you accelerate progress. You make the impossible, possible <b>faster</b>.</p>
 
-   <p>As a co-founder 💡, I’m laser-focused on delivering creative, out-of-the-box solutions to problems that <b>truly matter</b>. The goal is simple: high-impact results while ensuring every project is a <b>leap forward 🏃‍♂️</b>, not just a step. The future needs solutions that are bold, scalable, and sustainable, and I’m here to build exactly that 🌍.</p>
+   <p>As a co-founder of <a href="https://maskapi.dev" target="_blank">MaskAPI</a> 💡, I’m laser-focused on delivering creative, out-of-the-box solutions to problems that <b>truly matter</b>.
 
 </p>    
 

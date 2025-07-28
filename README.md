@@ -80,6 +80,12 @@
 
 <br/>
 
+- ### Payment Gateways: 
+<code> <img title="Stripe" alt="Stripe" src="https://freelogopng.com/images/all_img/1685814539stripe-icon-png.png" height="42px"/> </code>
+<code> <img title="PayPal" alt="PayPal" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png" height="42px"/> </code>
+
+<br/>
+
 - ### Development:
 <code> <img title="Visual Studio Code" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" height="42px"/> </code>
 <code> <img title="Vite" alt="Vite" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" height="42px"/> </code>

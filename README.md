@@ -118,13 +118,6 @@
 <code> <img title="Sentry" alt="Sentry" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sentry/sentry-original.svg" height="42px"/> </code>
 <code> <img title="Checkly" alt="Checkly" src="https://pbs.twimg.com/profile_images/1758527935709876224/DRTU7Rje_200x200.png" height="42px"/> </code>
 
-<br/>
-
-- ### Technologies I Am Learning: 
-<code> <img title="Jira" alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="42px"/> </code>
-
-
-<br/>
 
 - ### Task Management & Team Collaberation: 
 <code> <img title="ClickUp" alt="ClickUp" src="https://cdn.prod.website-files.com/66bcb8da83bf4e0f3fa35578/66bcb8da83bf4e0f3fa360f8_6257f2528a3995445f8b01c4_622f69e00c9cf272a93c7161_5df795b9983d280a159f28aa_symbol-color-large-transparent.webp" height="42px"/> </code>
@@ -132,6 +125,13 @@
 <code> <img title="Trello" alt="Trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" height="42px"/> </code>
 <code> <img title="Slack" alt="Slack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="42px"/> </code>
 
+<br/>
+
+## Learning Currently: 
+<code> <img title="AWS" alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="42px"/> </code>
+<code> <img title="Apache Kafka" alt="Apache Kafka" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="42px"/> </code>
+<code> <img title="MongoDB" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42px"/> </code>
+<code> <img title="express" alt="express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="42px"/> </code>
 <br/>
 
 ## 📈 My Journey

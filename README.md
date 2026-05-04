@@ -7,7 +7,7 @@
 
 
 <p style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-   <p>I’m a Full-Stack Software Engineer with 3+ years' experience in MERN, Node.js, Next.js, React, and TypeScript.
+   <p>I’m a Full-Stack Software Engineer with 4+ years' experience in MERN, Node.js, Next.js, React, and TypeScript.
    
    <p>I’m here because I believe in building the future, one line of code at a time. As a developer, my focus is simple: drive innovation by leading teams to create codebases that don’t just work, but <b>scale massively 📈</b>, adapt effortlessly 🔄, and perform with peak efficiency ⚡️.</p>
 
